@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"modelo.beans1"},{"l":"modelo.dao1"},{"l":"modelo.logic1"},{"l":"vistas1"}];updateSearchResults();
